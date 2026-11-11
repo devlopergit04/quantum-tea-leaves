@@ -112,7 +112,7 @@ No actual physics is harmed in the making of this README.
     <animate attributeName="cy" values="145;150;140;145" dur="2.7s" repeatCount="indefinite"/>
   </ellipse>
   <ellipse cx="145" cy="155" rx="9" ry="4.5" fill="#166534" transform="rotate(-10 145 155)">
-    <animateTransform attributeName="transform" type="="rotate" values="-10 145 155;0 145 155;-20 145 155;-10 145 155" dur="4.2s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" values="-10 145 155;0 145 155;-20 145 155;-10 145 155" dur="4.2s" repeatCount="indefinite"/>
   </ellipse>
 </svg>
 
